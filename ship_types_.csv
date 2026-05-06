@@ -1,0 +1,44 @@
+,Code,Description,Abbreviation,Effect Date,Expiry Date,Targeted Ship Types,Ropax,Passenger,Tanker
+0,310,Tankship + cc,CC,01/01/1982,01/01/2000,False,False,False,False
+1,311,NLS tanker,NLS,01/01/1982,,True,False,False,True
+2,312,Combination carrier,COMB,01/01/1982,,True,False,False,False
+3,313,Oil tanker,OIL,01/01/1982,,True,False,False,True
+4,314,Oil tanker/Chemical tanker ,OILCHEM,01/07/2019,,True,False,False,True
+5,315,Fishing vessel,FISH,01/07/2011,,False,False,False,False
+6,316,Warship and naval auxiliary,WARSHIP,01/07/2011,,False,False,False,False
+7,317,Wooden ship of a primitive build,WOOD,01/07/2011,,False,False,False,False
+8,318,Government ship used for non-commercial purpose,GOVERN,01/07/2011,,False,False,False,False
+9,319,Pleasure yacht not engaged in trade,YACHT,01/07/2011,,False,False,False,False
+10,320,Gas carrier,GAS,01/01/1982,,True,False,False,True
+11,321,Oil tanker/NLS tanker ,OILNLS,01/07/2019,,True,False,False,True
+12,322,Oil tanker/Gas carrier ,OILGAS,01/07/2019,,True,False,False,True
+13,323,Commercial yacht,COMYACHT,01/07/2013,,False,False,False,False
+14,324,Gas Carrier/NLS tanker,GASNLS,01/07/2019,,True,False,False,True
+15,330,Chemical tanker,CHEM,01/01/1982,,True,False,False,True
+16,340,Bulk carrier,BULK,01/01/1982,,True,False,False,False
+17,341,Cement carrier,CEMENT,01/01/1982,01/01/2000,False,False,False,False
+18,350,Unit.ves,UNIT,01/01/1982,01/01/2000,False,False,False,False
+19,351,Barge carrier,BARGE,01/01/1982,01/01/2000,False,False,False,False
+20,352,Vehicle carrier,VEHIC,01/01/1982,31/12/2010,False,False,False,False
+21,353,Container,CONT,01/01/1982,,False,False,False,False
+22,354,Pallet carrier,PALLET,01/01/1982,01/01/2000,False,False,False,False
+23,355,Ro-Ro cargo,ROROC,01/01/1982,,False,False,False,False
+24,360,General cargo/multipurpose,GEN,01/01/1982,,False,False,False,False
+25,361,Refrigerated cargo,RCV,01/01/1982,,False,False,False,False
+26,367,Livestock carrier,LIVE,01/01/1982,,False,False,False,False
+27,370,Ro-Ro passenger ship,ROROP,01/01/1982,,True,True,True,False
+28,371,Passenger ship,PAX,01/01/1982,,True,False,True,False
+29,372,Ice breaker,ICE,01/01/1982,01/01/2000,False,False,False,False
+30,373,Fish factory,FACT,01/01/1982,,False,False,False,False
+31,374,Research ship,RESEARCH,01/01/1982,01/01/2000,False,False,False,False
+32,375,Heavy load,HEAV,01/01/1982,,False,False,False,False
+33,376,Offshore supply,OSV,01/01/1982,,False,False,False,False
+34,377,Standby ship,STBY,01/01/1982,01/01/2000,False,False,False,False
+35,378,Dredger,DREDGE,01/01/1982,,False,False,False,False
+36,380,MODU & FPSO,MODU,01/01/1982,,False,False,False,False
+37,381,Dyncraft,DYN,01/01/1982,01/01/2000,False,False,False,False
+38,382,Special purpose ship,SPEC,01/01/1982,,False,False,False,False
+39,383,High speed passenger craft,HSPC,01/01/1982,,True,True,True,False
+40,384,High speed cargo,HSCC,01/01/1982,,False,False,False,False
+41,385,Tug,TUG,01/07/2011,,False,False,False,False
+42,399,Other special activities,OTHER,01/01/1982,,False,False,False,False

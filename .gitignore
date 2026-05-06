@@ -1,0 +1,9 @@
+*
+!*/
+!*.py
+!*.ipynb
+!*.pdf
+!*.csv
+!.gitignore
+!README.md
+.venv/
